@@ -1,6 +1,6 @@
 # 429999 Journal
 
-A lightweight personal internet journal for `@42999group`, built with plain HTML, CSS and JavaScript. The site covers crypto culture, memes, technology, AI, funding, startups and the strange behavior of people online.
+A lightweight personal internet journal for `@429999group`, built with plain HTML, CSS and JavaScript. The site covers crypto culture, memes, technology, AI, funding, startups and the strange behavior of people online.
 
 There are no frameworks, build tools, dependencies, external APIs, cookies or tracking. Every page works by opening the HTML file directly and all paths are relative for GitHub Pages compatibility.
 
@@ -80,9 +80,9 @@ The two WebP files are lightweight display derivatives used for faster loading. 
 
 The editable social links are grouped together in the `ABOUT` section of `index.html`:
 
-- X / Twitter: `https://x.com/42999group`
-- GitHub: `https://github.com/42999group`
-- Email: `mailto:hello@example.com`
+- X / Twitter: `https://x.com/429999group`
+- GitHub: `https://github.com`
+- Email: ``
 
 Replace the placeholder email and adjust the profile URLs if needed.
 
@@ -112,7 +112,7 @@ The lightweight social preview graphic is `assets/og-image.svg`. Some social pla
 All links and asset references are relative. The site therefore works inside a repository subdirectory such as:
 
 ```text
-https://username.github.io/429999-journal/
+🤓/
 ```
 
 The included `404.html` is automatically used by GitHub Pages for missing routes.
