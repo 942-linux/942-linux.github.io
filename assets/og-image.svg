@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#050505"/>
+  <g stroke="#15191d" stroke-width="1">
+    <path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200"/>
+    <path d="M100 0v630M200 0v630M300 0v630M400 0v630M500 0v630M600 0v630M700 0v630M800 0v630M900 0v630M1000 0v630M1100 0v630"/>
+  </g>
+  <circle cx="970" cy="315" r="170" fill="none" stroke="#f2f3f2" stroke-width="2"/>
+  <circle cx="970" cy="315" r="116" fill="none" stroke="#19e6e6" stroke-width="2" stroke-dasharray="3 10"/>
+  <path d="M870 340 976 214v202M938 340h130l-76 82" fill="none" stroke="#f2f3f2" stroke-width="24"/>
+  <rect x="962" y="307" width="16" height="16" fill="#19e6e6"/>
+  <text x="78" y="104" fill="#19e6e6" font-family="monospace" font-size="18" letter-spacing="3">429999 JOURNAL</text>
+  <text x="78" y="244" fill="#f2f3f2" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Notes from the noisy</text>
+  <text x="78" y="320" fill="#f2f3f2" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">side of the internet.</text>
+  <text x="78" y="438" fill="#8a9098" font-family="monospace" font-size="18">CRYPTO / MEMES / TECHNOLOGY / CURIOSITY</text>
+  <text x="78" y="548" fill="#f2f3f2" font-family="monospace" font-size="16">@42999GROUP  ·  FROM VIETNAM</text>
+</svg>

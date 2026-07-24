@@ -1,0 +1,56 @@
+[
+  {
+    "number": "021",
+    "slug": "note-001",
+    "title": "Why every crypto community eventually becomes a religion",
+    "categories": ["Memes", "Culture"],
+    "readingTime": "4 min read",
+    "date": "2026-07-21",
+    "annotation": "belief systems, now with liquidity"
+  },
+  {
+    "number": "020",
+    "slug": "note-002",
+    "title": "The difference between being early and simply being wrong",
+    "categories": ["Markets", "Personal view"],
+    "readingTime": "5 min read",
+    "date": "2026-07-16",
+    "annotation": "mostly visible in hindsight"
+  },
+  {
+    "number": "019",
+    "slug": "note-003",
+    "title": "AI agents are becoming the new crypto influencers",
+    "categories": ["AI", "Internet"],
+    "readingTime": "6 min read",
+    "date": "2026-07-09",
+    "annotation": "same confidence, fewer lunch breaks"
+  },
+  {
+    "number": "018",
+    "slug": "note-001",
+    "title": "Why every startup suddenly wants to become a network",
+    "categories": ["Tech", "Funding"],
+    "readingTime": "4 min read",
+    "date": "2026-06-28",
+    "annotation": "software, but with a constitution"
+  },
+  {
+    "number": "017",
+    "slug": "note-002",
+    "title": "Meme liquidity and the speed of collective belief",
+    "categories": ["Crypto", "Culture"],
+    "readingTime": "7 min read",
+    "date": "2026-06-17",
+    "annotation": "consensus at broadband speed"
+  },
+  {
+    "number": "016",
+    "slug": "note-003",
+    "title": "The internet has too many dashboards and not enough explanations",
+    "categories": ["Tech", "Opinion"],
+    "readingTime": "3 min read",
+    "date": "2026-06-02",
+    "annotation": "seven charts, zero context"
+  }
+]

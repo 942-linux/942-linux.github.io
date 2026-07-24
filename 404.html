@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 Signal Lost | 429999 Journal</title>
+  <meta name="description" content="The requested signal could not be found.">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#050505">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body class="error-page">
+  <a class="skip-link" href="#error-content">Skip to content</a>
+  <div class="page-noise" aria-hidden="true"></div>
+  <main class="error-shell shell" id="error-content">
+    <div class="error-code" aria-hidden="true">404</div>
+    <div class="error-copy">
+      <a class="brand" href="index.html"><span class="brand-mark">42</span><span>429999 Journal</span></a>
+      <p class="error-status">Signal lost</p>
+      <h1>The page you are looking for may have been:</h1>
+      <ul>
+        <li>deleted</li>
+        <li>rugged</li>
+        <li>renamed</li>
+        <li>never real</li>
+      </ul>
+      <div class="hero-actions">
+        <a class="button button-primary" href="index.html">Return to journal</a>
+        <button class="button button-secondary" type="button" data-random-thought>Random thought</button>
+      </div>
+    </div>
+  </main>
+
+  <dialog class="thought-dialog" id="thought-dialog" aria-labelledby="thought-title">
+    <div class="thought-bar"><span>Random thought</span><button type="button" data-close-thought aria-label="Close random thought">×</button></div>
+    <div class="thought-content">
+      <p id="thought-title">Transmission received</p>
+      <blockquote id="thought-text">Not everything needs a token.</blockquote>
+      <button class="text-button" type="button" data-another-thought>Another one</button>
+    </div>
+  </dialog>
+</body>
+</html>
